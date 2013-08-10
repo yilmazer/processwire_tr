@@ -1,4 +1,4 @@
-processwire_tr
+Turkish language pack for ProcessWire
 ==============
 
-ProcessWire TR Translation
+Turkish (tr) language pack for [ProcessWire](http://processwire.com).
